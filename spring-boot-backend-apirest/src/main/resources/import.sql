@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES('MARCO','CASTILLO','macs','2018-01-01'); 
